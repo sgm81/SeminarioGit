@@ -2,4 +2,4 @@ cambio realizado en rama 1
 
 cambio en fichero 2
 
-nuevo cambio
+nuevo cambio remoto
