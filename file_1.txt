@@ -2,7 +2,7 @@ funcionalidad acabada
 
 contenido inicial
 
-modificacion en local
+modificacion en local y en remoto
 
 2 contenido
 
